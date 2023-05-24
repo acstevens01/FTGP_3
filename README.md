@@ -16,8 +16,10 @@ Configure Ganache：NEW WORKSPACE，port: 8545，Chian ID: 1337
 #### Configure Metamask
 Import Ganache MNEMONIC，all localhost，port :8545，Chian ID 1337，switch localhost
 
-#### Install dependency
+#### Install dependencies 
 ```bash
+
+npm install
 
 npm install yarn truffle -g
 
